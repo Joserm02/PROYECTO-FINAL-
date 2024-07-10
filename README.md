@@ -10,4 +10,5 @@ Esta es una aplicación web de tienda desarrollada para facilitar la compra en l
 - **Tienda:** Contenedor principal que interactúa con la tienda.
 - **Notificaciones por Correo Electrónico:** - Uso de phpMailer para enviar correos a través de Gmail. - Notificaciones para compras, inicios de sesión y recuperación de contraseña.
 - **Método de Pago Simulado:** - Implementación de la API de PayPal en modo de prueba para simular transacciones.
-- **Medidas de seguridad:** - Uso de tokens para validar compras y registros de usuarios. - Acceso restringido a funciones y datos sensibles solo para usuarios autorizados. ## Requisitos - Docker y Docker Compose instalados en su sistema. - Una cuenta de Gmail para enviar correos electrónicos. - Credenciales de la API de PayPal en modo de prueba. ## Instalación y configuración.
+- **Medidas de seguridad:** - Uso de tokens para validar compras y registros de usuarios. - Acceso restringido a funciones y datos sensibles solo para usuarios autorizados.
+- ## Requisitos - Docker y Docker Compose instalados en su sistema. - Una cuenta de Gmail para enviar correos electrónicos. - Credenciales de la API de PayPal en modo de prueba. 
