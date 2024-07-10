@@ -8,16 +8,16 @@ Esta es una aplicación web de tienda desarrollada para facilitar la compra en l
 -  **CSS,HTML, Bootstrap:** Para el diseño y estructura de la interfaz de usuario.
 - **🔐Google Authenticator:** Para escaneo del código QR e ingreso del código.
 - **🔐Recaptcha de google:** - Presentación del captcha e ingreso de la respuesta.
-- **Nextcloud:** - Para interactuar con el administrador.
+- **☁️Nextcloud:** - Para interactuar con el administrador.
 
 ## Backend: 
-- **MySQL:** Para la base de datos principal.
+- **🐬MySQL:** Para la base de datos principal.
 -  **🐳 Docker:** Para la creación de entornos de desarrollo y despliegue.
 -  **🔐Google Authenticator:** para generación de la clave secreta y verificación del
 código.
 - **🔐Recaptcha de google:** - Para generación del captcha y verificación de la
 respuesta.
-- **Nextcloud:** Para almacenamiento de datos.
+- **☁️Nextcloud:** Para almacenamiento de datos.
 
 ## Librerías y APIs: 
 - **📧 PhpMailer :** Para el envío de correos electrónicos, proporcionando
