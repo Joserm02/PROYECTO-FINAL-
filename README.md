@@ -3,7 +3,7 @@
  ## Descripción 
 Esta es una aplicación web de tienda desarrollada para facilitar la compra en línea, con características avanzadas de seguridad y notificación. La aplicación utiliza Docker para montar el entorno de desarrollo, que consta de cuatro contenedores: MySQL, phpMyAdmin, Nextcloud y un contenedor de la tienda. Además, se emplea la librería phpMailer para enviar correos electrónicos y la API de PayPal en modo de prueba para simular pagos. 
 ## Características - 
-**Contenedores Docker:** 
+
 - **MySQL:** Base de datos para almacenar la información de la tienda.
 -  **phpMyAdmin:** Herramienta de gestión de bases de datos para administrar MySQL.
 -  **Nextcloud:** Alojamiento del login de administrador con varios métodos de seguridad.
